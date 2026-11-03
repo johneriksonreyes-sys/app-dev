@@ -9,7 +9,7 @@ My first repository
 
 ## 🎬 Overview
 
-![Breaking Dawn Background](file:///C:/Users/LAB6/Downloads/twilight-background-24ctzwek5shpx3li.jpg)
+![Breaking Dawn Background] (https://images6.alphacoders.com/827/thumb-1920-827675.jpg)
 
 **Full Title**: *The Twilight Saga: Breaking Dawn – Part 2*
 **Released**: 2012
