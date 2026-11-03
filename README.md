@@ -1,6 +1,3 @@
-# app-dev
-My first repository
-
 # The Twilight Saga: Breaking Dawn – Part 2
 
 🧛‍♀️🐺 The epic conclusion to my favorite franchise!
@@ -9,7 +6,7 @@ My first repository
 
 ## 🎬 Overview
 
-![Breaking Dawn Background] (https://images6.alphacoders.com/827/thumb-1920-827675.jpg)
+![Breaking Dawn Background](https://images6.alphacoders.com/827/thumb-1920-827675.jpg)
 
 **Full Title**: *The Twilight Saga: Breaking Dawn – Part 2*
 **Released**: 2012
