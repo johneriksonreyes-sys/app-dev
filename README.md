@@ -9,7 +9,7 @@ My first repository
 
 ## 🎬 Overview
 
-![Breaking Dawn Part 2 Poster](https://upload.wikimedia.org/wikipedia/en/7/71/Twilight_Breaking_Dawn_Part_2_Poster.jpg)
+![Breaking Dawn Background](twilight-background-24ctzwek5shpx3li.jpg)
 
 **Full Title**: *The Twilight Saga: Breaking Dawn – Part 2*
 **Released**: 2012
